@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/allerta</item>
+        <item>@font/amaranth_bold_italic</item>
+        <item>@font/amiko_bold</item>
+        <item>@font/audiowide</item>
+        <item>@font/autour_one</item>
+        <item>@font/candal</item>
+        <item>@font/cantata_one</item>
+        <item>@font/convergence</item>
+    </array>
+</resources>
